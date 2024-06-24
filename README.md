@@ -1,6 +1,6 @@
 # IMPORTANT!
 
-**Client** and **Server** is to be opened together, and the **rest** is to be opened separately.
+**Client** and **Server** are to be opened together as both are part of the Spotify API Website Project folder, and the **rest** is to be opened separately as they are the **Homepage** to direct to **Spotify API Website** and **Movie API**.
 
 # spotify-website-api
 Spotify_API_Website
