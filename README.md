@@ -1,3 +1,17 @@
+# IMPORTANT!
+
+**Client** and **Server** is to be opened together, and the **rest** is to be opened separately.
+
+# spotify-website-api
+Spotify_API_Website
+
+**Homepage** project folder
+![Screenshot 2024-06-24 200205](Screenshot%202024-06-24%20200205.png)
+
+**Spotify API Website** project folder
+![Screenshot 2024-06-24 200219](Screenshot%202024-06-24%20200219.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,13 +82,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-# IMPORTANT!
-
-**Client** and **Server** is to be opened together, and the **rest** is to be opened separately.
-
-# spotify-website-api
-Spotify_API_Website
-
-![Screenshot 2024-06-24 200205](Screenshot%202024-06-24%20200205.png)
-![Screenshot 2024-06-24 200219](Screenshot%202024-06-24%20200219.png)
