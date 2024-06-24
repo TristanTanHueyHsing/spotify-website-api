@@ -6,9 +6,11 @@
 Spotify_API_Website
 
 **Homepage** project folder
+
 ![Screenshot 2024-06-24 200205](Screenshot%202024-06-24%20200205.png)
 
 **Spotify API Website** project folder
+
 ![Screenshot 2024-06-24 200219](Screenshot%202024-06-24%20200219.png)
 
 
