@@ -76,5 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # spotify-website-api
 Spotify_API_Website
 
-![Image1](path/to/image1.png)
-![Image2](path/to/image2.png)
+![Screenshot 2024-06-24 200205](Screenshot%202024-06-24%20200205.png)
+![Screenshot 2024-06-24 200219](Screenshot%202024-06-24%20200219.png)
