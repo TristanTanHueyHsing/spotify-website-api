@@ -1,19 +1,3 @@
-# IMPORTANT!
-
-**Client** and **Server** are to be opened together as both are part of the Spotify API Website Project folder, and the **rest** is to be opened separately as they are the **Homepage** to direct to **Spotify API Website** and **Movie API**.
-
-# spotify-website-api
-Spotify_API_Website
-
-**Homepage** project folder
-
-![Screenshot 2024-06-24 200205](Screenshot%202024-06-24%20200205.png)
-
-**Spotify API Website** project folder
-
-![Screenshot 2024-06-24 200219](Screenshot%202024-06-24%20200219.png)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
