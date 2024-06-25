@@ -29,7 +29,7 @@ export default function Dashboard({ code }) {
     useEffect(() => {
         if (!playingTrack) return
             axios
-                .get("https://main--dynamic-croissant-9a5334.netlify.app/lyrics", {
+                .get("http://localhost:3000/lyrics", {
                     params: {
                         track: playingTrack.title,
                         artist: playingTrack.artist,

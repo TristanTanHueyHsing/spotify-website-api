@@ -7,7 +7,7 @@ export default function Auth(code) {
   const [expiresIn, setExpiresIn] = useState()
 
   useEffect(() => {
-    axios.post('https://main--dynamic-croissant-9a5334.netlify.app/login', {
+    axios.post('http://localhost:3000/login', {
         code,
     })
         . then(res => {
@@ -24,7 +24,7 @@ export default function Auth(code) {
   useEffect(() => {
     if (!refreshToken ||!expiresIn) return
     const interval = setInterval(() => {
-    axios.post('https://main--dynamic-croissant-9a5334.netlify.app/refresh', {refreshToken,})
+    axios.post('http://localhost:3000/refresh', {refreshToken,})
         . then(res => {
         setAccessToken(res.data.accessToken);
         setExpiresIn(res.data.expiresIn);
